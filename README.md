@@ -22,6 +22,11 @@ If you want to change how the website looks, you can play around with the CSS fi
 
 We're happy to hear from you! If you find any issues or have cool ideas to make the website even better, just let us know. You can send us a message or make changes yourself and tell us about it.
 
+## Credits
+
+- The images used in this project are from [Pexels](https://www.pexels.com/).
+- The audio track used in this project is from [Free Music Archive](https://freemusicarchive.org/).
+- 
 Enjoy your Mindful Journeys!
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
