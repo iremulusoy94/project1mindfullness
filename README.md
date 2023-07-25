@@ -23,6 +23,6 @@ If you want to change how the website looks, you can play around with the CSS fi
 We're happy to hear from you! If you find any issues or have cool ideas to make the website even better, just let us know. You can send us a message or make changes yourself and tell us about it.
 
 Enjoy your Mindful Journeys!
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
